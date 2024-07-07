@@ -1,0 +1,12 @@
+.button-container {
+  border: 1px solid black;
+  width: 200px;
+  margin: 5px;
+  padding: 3px;
+
+  background-color: aliceblue;
+}
+.box {
+  border: 2px solid black;
+  width: 240px;
+}
